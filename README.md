@@ -3,6 +3,9 @@
 [![License: AGPL v3](https://img.shields.io/badge/License-AGPL%20v3-blue.svg)](https://www.gnu.org/licenses/agpl-3.0)
 [![Platform](https://img.shields.io/badge/Platform-Android-green.svg)](https://android.com)
 
+
+[![Release v1.0](https://img.shields.io/badge/Release-v1.0-2ea44f?style=for-the-badge)](https://github.com/aleksandergrambelik-png/SanderHexDump/releases/tag/v1.0)
+
 SanderHexDump is a lightweight, zero-dependency Hex Editor & Reverse Engineering tool built entirely on Android using Termux. It is written in 100% Native Java without Gradle or Android Studio, designed for security researchers and reverse engineers who need a portable hex viewer on the go.
 
 ## Features
