@@ -1,0 +1,5 @@
+obj/
+*.dex
+*.unaligned.apk
+res.zip
+*.log
