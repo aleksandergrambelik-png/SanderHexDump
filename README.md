@@ -36,6 +36,13 @@ Build from Source (Termux)
 
 (Coming soon in v1.1)
 
+## Support Development
+
+If you want to support the project and keep the tools growing, you can buy me a coffee:
+
+[![Ko-fi](https://img.shields.io/badge/Ko--fi-Support-orange?style=for-the-badge&logo=ko-fi)](https://ko-fi.com/sander_0x04)
+
+
 License
 
 This project is licensed under the GNU Affero General Public License v3.0 (AGPLv3).
